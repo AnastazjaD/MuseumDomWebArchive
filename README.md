@@ -3,11 +3,11 @@
 
 Сохраняется архитектура исходного проекта: несколько страниц через гиперссылки собранные на главной (разделы, посвященные отдельным “историям” дома: строительство, столетия, участники ВОВ, репрессированные, мероприятия, музей, отчет о работе). Разный тип контента: преимущественно текстовый и графический.
 
-Анализ при помощи утилиты metawarc (выдели полужирным в разметке) показал следующие результаты.
+Анализ при помощи утилиты **metawarc**  показал следующие результаты.
 
 ![Рисунок](https://github.com/AnastazjaD/MuseumDomWebArchive/blob/museumdom/Images/museumdom.narod.ru_CWindowssystem32cmd.exe1.jpg)
 
-Преобладающие типы данных: текст, изображение, интерактивные элементы. Общее число файлов: 1078.
+**Преобладающие типы данных**: текст, изображение, интерактивные элементы. Общее число файлов: 1078.
 
 ![Рисунок](https://github.com/AnastazjaD/MuseumDomWebArchive/blob/museumdom/Images/museumdom.narod.ru_CWindowssystem32cmd.exe1.jpg)
 ![Рисунок](https://github.com/AnastazjaD/MuseumDomWebArchive/blob/museumdom/Images/museumdom.narod.ru_CWindowssystem32cmd.exe3.jpg)
