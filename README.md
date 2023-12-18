@@ -1,6 +1,6 @@
 # MuseumDomWebArchive
 
-[http://ex.dnnmuseum.ru/](http://ex.dnnmuseum.ru/) - первая, можно сказать любительская, версия сайта.
+[http://ex.dnnmuseum.ru/](http://ex.dnnmuseum.ru/) - первая, можно сказать, "любительская", версия сайта.
 
 ![Рисунок](https://github.com/AnastazjaD/MuseumDomWebArchive/blob/exdnnmuseum/Images/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.jpg)
 
