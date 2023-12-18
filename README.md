@@ -1,5 +1,6 @@
 # MuseumDomWebArchive
 [https://museumdom.narod.ru/](https://museumdom.narod.ru/) - вторая версия сайта.
+![Рисунок](https://github.com/AnastazjaD/MuseumDomWebArchive/blob/museumdom/Images/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B90.jpg)
 
 Сохраняется архитектура исходного проекта: несколько страниц через гиперссылки собранные на главной (разделы, посвященные отдельным “историям” дома: строительство, столетия, участники ВОВ, репрессированные, мероприятия, музей, отчет о работе). Разный тип контента: преимущественно текстовый и графический.
 
@@ -7,7 +8,7 @@
 
 ![Рисунок](https://github.com/AnastazjaD/MuseumDomWebArchive/blob/museumdom/Images/museumdom.narod.ru_CWindowssystem32cmd.exe1.jpg)
 
-**Преобладающие типы данных**: текст, изображение, интерактивные элементы. Общее число файлов: 1078.
+**Преобладающие типы данных**: текст, изображение, интерактивные элементы. Общее число файлов: 1078 (возросло в два раза)
 
 ![Рисунок](https://github.com/AnastazjaD/MuseumDomWebArchive/blob/museumdom/Images/museumdom.narod.ru_CWindowssystem32cmd.exe1.jpg)
 ![Рисунок](https://github.com/AnastazjaD/MuseumDomWebArchive/blob/museumdom/Images/museumdom.narod.ru_CWindowssystem32cmd.exe3.jpg)
